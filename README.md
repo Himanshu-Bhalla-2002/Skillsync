@@ -13,6 +13,74 @@ SkillSync is a MERN stack application designed to bring skilled students and sta
 
 Built with the MERN stack, SkillSync uses React.js for the frontend, Express.js for the backend, and MongoDB for the database. This ensures a scalable, high-performance, and seamless user experience.
 
+## 📸 Screenshots of Key Features
+
+---
+
+### 🏠 Front Page 
+
+<p align="center">
+  <img src="https://github.com/your_username/SkillSync/assets/front_page.png" alt="Front Page"/>
+</p>
+
+---
+
+### 📚 Different Gigs Categories 
+
+<p align="center">
+  <img src="https://github.com/your_username/SkillSync/assets/different_gigs_categories.png" alt="Different Gigs Categories"/>
+</p>
+
+---
+
+### 🔐 Sign-In Page 
+
+<p align="center">
+  <img src="https://github.com/your_username/SkillSync/assets/sign_in_page.png" alt="Sign-In Page"/>
+</p>
+
+---
+
+### 📝 Join Page 
+
+<p align="center">
+  <img src="https://github.com/your_username/SkillSync/assets/join_page.png" alt="Join Page"/>
+</p>
+
+---
+
+### 🔍 Search Functionality with Filtering 
+
+<p align="center">
+  <img src="https://github.com/your_username/SkillSync/assets/search_functionality.png" alt="Search Functionality with Filtering"/>
+</p>
+
+---
+
+### 🌟 Reviews 
+
+<p align="center">
+  <img src="https://github.com/your_username/SkillSync/assets/reviews.png" alt="Reviews"/>
+</p>
+
+---
+
+### 💬 Chat Feature 
+
+<p align="center">
+  <img src="https://github.com/your_username/SkillSync/assets/chat_feature.png" alt="Chat Feature"/>
+</p>
+
+---
+
+### 💳 Payment Option
+
+<p align="center">
+  <img src="https://github.com/your_username/SkillSync/assets/payment_option.png" alt="Payment Option"/>
+</p>
+
+---
+
 
 
 
@@ -51,6 +119,9 @@ JWT_SECRET_KEY={your_jwt_secret_key} # Replace with your preferred JWT secret ke
 To start the backend server, run: npm run start
 To start the frontend server, navigate to the client folder and run: npm start
 
+## 🚀 Future Work
+
+In the pipeline for future updates, we aim to introduce advanced search algorithms for personalized gig recommendations, along with real-time chat functionalities to boost user engagement. We're also exploring the possibility of adding multiple payment gateway options for a more flexible transaction experience. Performance optimization for speedier load times and mobile responsiveness are also on the agenda to improve overall user experience. Stay tuned for these exciting updates!
 
 
 
