@@ -20,7 +20,7 @@ Built with the MERN stack, SkillSync uses React.js for the frontend, Express.js 
 ### 🏠 Front Page 
 
 <p align="center">
-  <img src="https://github.com/your_username/SkillSync/assets/front_page.png" alt="Front Page"/>
+  <img src="https://imgur.com/liRt9RU" alt="Front Page"/>
 </p>
 
 ---
@@ -28,7 +28,7 @@ Built with the MERN stack, SkillSync uses React.js for the frontend, Express.js 
 ### 📚 Different Gigs Categories 
 
 <p align="center">
-  <img src="https://github.com/your_username/SkillSync/assets/different_gigs_categories.png" alt="Different Gigs Categories"/>
+  <img src="https://imgur.com/PbCfJV4" alt="Different Gigs Categories"/>
 </p>
 
 ---
@@ -36,7 +36,7 @@ Built with the MERN stack, SkillSync uses React.js for the frontend, Express.js 
 ### 🔐 Sign-In Page 
 
 <p align="center">
-  <img src="https://github.com/your_username/SkillSync/assets/sign_in_page.png" alt="Sign-In Page"/>
+  <img src="https://imgur.com/fStZcfz" alt="Sign-In Page"/>
 </p>
 
 ---
@@ -44,7 +44,7 @@ Built with the MERN stack, SkillSync uses React.js for the frontend, Express.js 
 ### 📝 Join Page 
 
 <p align="center">
-  <img src="https://github.com/your_username/SkillSync/assets/join_page.png" alt="Join Page"/>
+  <img src="https://imgur.com/H7cXZ6d" alt="Join Page"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@ Built with the MERN stack, SkillSync uses React.js for the frontend, Express.js 
 ### 🔍 Search Functionality with Filtering 
 
 <p align="center">
-  <img src="https://github.com/your_username/SkillSync/assets/search_functionality.png" alt="Search Functionality with Filtering"/>
+  <img src="https://imgur.com/u3WPAVJ" alt="Search Functionality with Filtering"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@ Built with the MERN stack, SkillSync uses React.js for the frontend, Express.js 
 ### 🌟 Reviews 
 
 <p align="center">
-  <img src="https://github.com/your_username/SkillSync/assets/reviews.png" alt="Reviews"/>
+  <img src="https://imgur.com/SrRZlUX" alt="Reviews"/>
 </p>
 
 ---
@@ -68,7 +68,7 @@ Built with the MERN stack, SkillSync uses React.js for the frontend, Express.js 
 ### 💬 Chat Feature 
 
 <p align="center">
-  <img src="https://github.com/your_username/SkillSync/assets/chat_feature.png" alt="Chat Feature"/>
+  <img src="https://imgur.com/oRHxZC4" alt="Chat Feature"/>
 </p>
 
 ---
@@ -76,7 +76,7 @@ Built with the MERN stack, SkillSync uses React.js for the frontend, Express.js 
 ### 💳 Payment Option
 
 <p align="center">
-  <img src="https://github.com/your_username/SkillSync/assets/payment_option.png" alt="Payment Option"/>
+  <img src="https://imgur.com/qpa5CJw" alt="Payment Option"/>
 </p>
 
 ---
