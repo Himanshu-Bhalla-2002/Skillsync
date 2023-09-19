@@ -48,12 +48,8 @@ Create a .env file in the root of your project directory and populate it with th
 DATABASE_URI={mongodb_connection_string} # Replace with your MongoDB connection string
 JWT_SECRET_KEY={your_jwt_secret_key} # Replace with your preferred JWT secret key
 <h4>Usage</h4>
-To start the backend server, run:
-
-npm run start
-To start the frontend server, navigate to the client folder and run:
-
-npm start
+To start the backend server, run: npm run start
+To start the frontend server, navigate to the client folder and run: npm start
 
 
 
