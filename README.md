@@ -20,7 +20,7 @@ Built with the MERN stack, SkillSync uses React.js for the frontend, Express.js 
 ### 🏠 Front Page 
 
 <p align="center">
-  <img src="[img]https://i.imgur.com/oRHxZC4.png[/img]" alt="Front Page"/>
+  <img src="https://i.imgur.com/oRHxZC4.png" alt="Front Page"/>
 </p>
 
 ---
